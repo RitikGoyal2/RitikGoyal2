@@ -21,15 +21,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      <h1>Motivation</h1>
-      img {
+ 
+      <h1>Motivation : If you can dream it then you can do it </h1>
+     
+  </head>
+  <body>
+       <style>
+     img {
         width: 270px;
         border: 1px solid black;
       }
     </style>
-  </head>
-  <body>
     <img alt="Qries" src="https://miro.medium.com/max/1400/1*bdG-96ePWM30OboOrIqGwg.jpeg" align = right width="300" height="300">
   </body>
 </html>
