@@ -22,10 +22,10 @@
 <html>
   <head>
    <style>
-     img {
+<!--      img {
         width: 270px;
         border: 1px solid black;
-      }
+      } -->
       <h1>Motivation : If you can dream it then you can do it </h1>
      
     </style>
