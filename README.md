@@ -21,18 +21,19 @@
 <!DOCTYPE html>
 <html>
   <head>
- 
-      <h1>Motivation : If you can dream it then you can do it </h1>
-     
-  </head>
-  <body>
-       <style>
+   <style>
      img {
         width: 270px;
         border: 1px solid black;
       }
     </style>
+      <h1>Motivation : If you can dream it then you can do it </h1>
     <img alt="Qries" src="https://miro.medium.com/max/1400/1*bdG-96ePWM30OboOrIqGwg.jpeg" align = right width="300" height="300">
+     
+  </head>
+  <body>
+     
+    
   </body>
 </html>
 
