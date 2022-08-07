@@ -21,8 +21,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Motivation</title>
     <style>
+      <h1>Motivation</h1>
       img {
         width: 270px;
         border: 1px solid black;
